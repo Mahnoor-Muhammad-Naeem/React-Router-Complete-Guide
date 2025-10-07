@@ -80,7 +80,22 @@ Route Path        | Description                |
 /jobs/:id         | Dynamic Job Route (Loader) |  
 *                 | Error Page (404 / Loader)  |  
 
-🖼️ Screenshots  
+🖼️ Screenshots
+
+
+## 📸 Project Screenshots
+
+| Description | Screenshot |
+|---|---|
+| Home | ![Home](home.png) |
+| Products | ![Products](products.png) |
+| About | ![About](about.png) |
+| Contact | ![Contact](contact.png) |
+| Nested Route (Info) | ![Info](contact%20info.png) |
+| Nested Route (Form) | ![Form](contact%20form.png) |
+| Jobs | ![Jobs](jobs.png) |
+| Error (404) | ![Error](json%2020.png) |
+
 
 All screenshots should be saved inside a folder named `/screenshots` at the project root.  
 
