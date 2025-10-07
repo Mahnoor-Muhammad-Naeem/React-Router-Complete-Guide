@@ -95,6 +95,23 @@ Route Path        | Description                | Screenshot Example             
 /jobs/1           | Job Details Example        | /screenshots/jobs.png        |  
 *                 | Error Page (404)           | /screenshots/json20.png                |  
 
+
+
+
+## 📸 Project Screenshots
+
+| Description | Screenshot |
+|--------------|-------------|
+| **Home Page** | ![Home Page](screenshots/home.png) |
+| **Products Page** | ![Products Page](screenshots/products.png) |
+| **About Page** | ![About Page](screenshots/about.png) |
+| **Contact Page** | ![Contact Page](screenshots/contact.png) |
+| **Nested Route (Info)** | ![Nested Route Info](screenshots/contact_info.png) |
+| **Nested Route (Form)** | ![Nested Route Form](screenshots/contact_form.png) |
+| **Job Details Example** | ![Job Details Example](screenshots/jobs.png) |
+| **Error Page (404)** | ![Error Page](screenshots/json20.png) |
+
+
 📝 Initial Setup (Fresh Project)  
 
 # 1. Create React + Vite project  
