@@ -86,7 +86,7 @@ All screenshots should be saved inside a folder named `/screenshots` at the proj
 
 Route Path        | Description                | Screenshot Example                  |  
 ------------------|----------------------------|-------------------------------------|  
-/                 | Home Page                  | /assets/home.png               |  
+/                 | Home Page                  | /home.png               |  
 /products         | Products Page              | /screenshots/products.png           |  
 /about            | About Page                 | /screenshots/about.png              |  
 /contact          | Contact Page               | /screenshots/contact.png            |  
