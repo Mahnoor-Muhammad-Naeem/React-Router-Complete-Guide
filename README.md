@@ -6,8 +6,8 @@
 | Products | ![Products](screenshots/products.png) |
 | About | ![About](screenshots/about.png) |
 | Contact | ![Contact](screenshots/contact.png) |
-| Nested Route (Info) | ![Info](screenshots/contact info.png) |
-| Nested Route (Form) | ![Form](screenshots/contact form.png) |
+| Nested Route (Info) | ![Info](screenshots/contact_info.png) |
+| Nested Route (Form) | ![Form](screenshots/contact_form.png) |
 | Jobs | ![Jobs](screenshots/jobs.png) |
 | Error (404) | ![Error](screenshots/json_20.png) |
 
