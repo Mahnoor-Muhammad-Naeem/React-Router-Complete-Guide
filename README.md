@@ -9,6 +9,8 @@
 | Nested Route (Info) | ![Info](screenshots/contact_info.png) |
 | Nested Route (Form) | ![Form](screenshots/contact_form.png) |
 | Jobs | ![Jobs](screenshots/jobs.png) |
+| Jobs | ![Jobs](screenshots/all_jobs_json.png) |
+| Jobs | ![Jobs](screenshots/jobs_1.png) |
 | Error (404) | ![Error](screenshots/json_20.png) |
 
 
